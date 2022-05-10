@@ -1,0 +1,14 @@
+# Dependency directory
+node_modules
+
+# Debug log from npm
+npm-debug.log
+
+# Environment Variables should NEVER be published
+.env
+<<<<<<< HEAD
+
+.vscode
+=======
+.vscode
+>>>>>>> cc9f0962921ff75a5fab03c20a58da03409fdc9b
